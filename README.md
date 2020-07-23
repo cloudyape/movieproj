@@ -1,6 +1,6 @@
-# MovieProj
+# MovieProj (Below is an Important line to look at so it is in Brackets)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+[Please use npm install command to get node modules folder]
 
 ## Development server
 

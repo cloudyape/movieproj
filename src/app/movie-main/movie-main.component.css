@@ -1,0 +1,12 @@
+.margin-top-10px {
+    margin-top: 10px;
+}
+
+.title {
+    color: #d20925;
+    cursor: pointer;
+}
+
+.title:hover {
+    text-decoration: underline;
+}
